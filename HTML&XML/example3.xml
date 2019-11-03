@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<cardetails>
+   <car ID="S1">
+        <model color="Blue"> Santro X5 </model>
+        <price> Rs.3,75,000</price>
+        </car>
+        <car ID ="S2">
+        <model color="WHITE"> Santro  </model>
+        <price> Rs.3,75,000</price>
+    </car>
+</cardetails>           

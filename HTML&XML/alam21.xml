@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!doctypebook
+[
+<!Element book (title,publisher,price)>
+<!Element title (#PCDATA)>
+<!Element publisher (#PCDATA)>
+<!Element price (#PCDATA)>
+]>
+<book>
+<title>Practise</title>
+<publisher>Alam</publisher>
+<price>Rs.50</price>
+</book>
